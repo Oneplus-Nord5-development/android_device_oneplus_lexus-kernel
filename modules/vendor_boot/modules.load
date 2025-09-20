@@ -82,6 +82,7 @@ kernel_fb.ko
 olc.ko
 oplus_storage_log.ko
 oplus_uprobe.ko
+oplus_file_record.ko
 device_info.ko
 oplus_mdmrst.ko
 qcom_enhance_watchdog.ko
